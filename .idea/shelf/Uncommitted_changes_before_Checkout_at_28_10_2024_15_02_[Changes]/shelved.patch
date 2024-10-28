@@ -1,0 +1,210 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4cb4130e-63f2-4ca1-86db-6232b2580fb2\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 5\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2nu3z6qALdhwN3BT438sQGK9h41\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4cb4130e-63f2-4ca1-86db-6232b2580fb2\" name=\"Changes\" comment=\"\" />\r\n      <created>1729809393433</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1729809393433</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision cffca81d7d94b52c7f52a6db57f26aeb4aaa45c1)
++++ b/.idea/workspace.xml	(date 1730113303651)
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="4cb4130e-63f2-4ca1-86db-6232b2580fb2" name="Changes" comment="" />
++    <list default="true" id="4cb4130e-63f2-4ca1-86db-6232b2580fb2" name="Changes" comment="">
++      <changelist_data name="Юлия" email="yuliyamarketplace@yandex.ru" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -14,6 +17,24 @@
+     <projectState path="$PROJECT_DIR$">
+       <ProjectState />
+     </projectState>
++  </component>
++  <component name="ExternalProjectsManager">
++    <system id="GRADLE">
++      <state>
++        <task path="$PROJECT_DIR$">
++          <activation />
++        </task>
++        <projects_view />
++      </state>
++    </system>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 5
+@@ -23,12 +44,147 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Downloaded.Files.Path.Enabled": "false",
++    "Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary.executor": "Run",
++    "Repository.Attach.Annotations": "false",
++    "Repository.Attach.JavaDocs": "false",
++    "Repository.Attach.Sources": "false",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "testng",
++    "kotlin-language-version-configured": "true"
+   }
+-}</component>
++}]]></component>
++  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary">
++    <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++      <ExternalSystemSettings>
++        <option name="executionName" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="externalSystemIdString" value="GRADLE" />
++        <option name="scriptParameters" value="" />
++        <option name="taskDescriptions">
++          <list />
++        </option>
++        <option name="taskNames">
++          <list>
++            <option value=":test" />
++            <option value="--tests" />
++            <option value="&quot;CashbackHackServiceTest&quot;" />
++          </list>
++        </option>
++        <option name="vmOptions" />
++      </ExternalSystemSettings>
++      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
++      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
++      <DebugAllEnabled>false</DebugAllEnabled>
++      <RunAsTest>true</RunAsTest>
++      <method v="2" />
++    </configuration>
++    <configuration name="CashbackHackServiceTest.calculateCashbackHack" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++      <ExternalSystemSettings>
++        <option name="executionName" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="externalSystemIdString" value="GRADLE" />
++        <option name="scriptParameters" value="" />
++        <option name="taskDescriptions">
++          <list />
++        </option>
++        <option name="taskNames">
++          <list>
++            <option value=":test" />
++            <option value="--tests" />
++            <option value="&quot;CashbackHackServiceTest.calculateCashbackHack&quot;" />
++          </list>
++        </option>
++        <option name="vmOptions" />
++      </ExternalSystemSettings>
++      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
++      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
++      <DebugAllEnabled>false</DebugAllEnabled>
++      <RunAsTest>true</RunAsTest>
++      <method v="2" />
++    </configuration>
++    <configuration name="CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++      <ExternalSystemSettings>
++        <option name="executionName" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="externalSystemIdString" value="GRADLE" />
++        <option name="scriptParameters" value="" />
++        <option name="taskDescriptions">
++          <list />
++        </option>
++        <option name="taskNames">
++          <list>
++            <option value=":test" />
++            <option value="--tests" />
++            <option value="&quot;ru.netology.CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary&quot;" />
++          </list>
++        </option>
++        <option name="vmOptions" />
++      </ExternalSystemSettings>
++      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
++      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
++      <DebugAllEnabled>false</DebugAllEnabled>
++      <RunAsTest>true</RunAsTest>
++      <method v="2" />
++    </configuration>
++    <configuration name="CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++      <ExternalSystemSettings>
++        <option name="executionName" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="externalSystemIdString" value="GRADLE" />
++        <option name="scriptParameters" value="" />
++        <option name="taskDescriptions">
++          <list />
++        </option>
++        <option name="taskNames">
++          <list>
++            <option value=":test" />
++            <option value="--tests" />
++            <option value="&quot;ru.netology.CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary&quot;" />
++          </list>
++        </option>
++        <option name="vmOptions" />
++      </ExternalSystemSettings>
++      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
++      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
++      <DebugAllEnabled>false</DebugAllEnabled>
++      <RunAsTest>true</RunAsTest>
++      <method v="2" />
++    </configuration>
++    <configuration name="unit [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++      <ExternalSystemSettings>
++        <option name="executionName" />
++        <option name="externalProjectPath" value="$PROJECT_DIR$" />
++        <option name="externalSystemIdString" value="GRADLE" />
++        <option name="scriptParameters" value="" />
++        <option name="taskDescriptions">
++          <list />
++        </option>
++        <option name="taskNames">
++          <list>
++            <option value="test" />
++          </list>
++        </option>
++        <option name="vmOptions" />
++      </ExternalSystemSettings>
++      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
++      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
++      <DebugAllEnabled>false</DebugAllEnabled>
++      <RunAsTest>false</RunAsTest>
++      <method v="2" />
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary" />
++        <item itemvalue="Gradle.unit [test]" />
++        <item itemvalue="Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary" />
++        <item itemvalue="Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary" />
++        <item itemvalue="Gradle.CashbackHackServiceTest.calculateCashbackHack" />
++      </list>
++    </recent_temporary>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -40,4 +196,8 @@
+     </task>
+     <servers />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Create gradle.yml" />
++    <option name="LAST_COMMIT_MESSAGE" value="Create gradle.yml" />
++  </component>
+ </project>
+\ No newline at end of file
