@@ -1,33 +1,34 @@
 package ru.netology;
 
+import org.junit.Test;
 
+import org.junit.Assert;
 
-import org.junit.jupiter.api.Test;
-
-import static org.junit.Assert.assertEquals;
+import static org.testng.AssertJUnit.assertEquals;
 
 public class CashbackHackServiceTest {
 
     @Test
-    void calculateCashbackHackForAmountLessBoundary ()
+    public void calculateCashbackHackForAmountLessBoundary()
     {
         CashbackHackService service = new CashbackHackService();
-        int amount = 900;
+        int amount = 100;
 
         int actual = service.remain(amount);
-        int expected = 100;
+        int expected = 900;
         assertEquals(expected, actual);
     }
 
     @Test
-    void calculateCashbackHackForAmountEqBoundary()
+    public void calculateCashbackHackForAmountEqBoundary()
     {
         CashbackHackService service = new CashbackHackService();
-        int amount = 1000;
+        int amount = 0;
 
         int actual  = service.remain(amount);
-        int expected = 0;
+        int expected = 1000;
         assertEquals(expected, actual);
     }
+
 
 }
