@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4cb4130e-63f2-4ca1-86db-6232b2580fb2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/CashbackHackServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/CashbackHackServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,38 +44,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Gradle.Build unit.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashbackHackServiceTest.calculateCashbackHack (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashbackHackServiceTest.calculateCashbackHack.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashbackHackServiceTest.calculateCashbackHackThousand (1).executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashbackHackServiceTest.calculateCashbackHackThousand.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashbackHackServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.unit [test].executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [verify].executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;junit4&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.Build unit.executor": "Run",
+    "Gradle.CashbackHackServiceTest.calculateCashbackHack (1).executor": "Run",
+    "Gradle.CashbackHackServiceTest.calculateCashbackHack.executor": "Debug",
+    "Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary.executor": "Run",
+    "Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary.executor": "Run",
+    "Gradle.CashbackHackServiceTest.calculateCashbackHackThousand (1).executor": "Run",
+    "Gradle.CashbackHackServiceTest.calculateCashbackHackThousand.executor": "Run",
+    "Gradle.CashbackHackServiceTest.executor": "Run",
+    "Gradle.unit [test].executor": "Run",
+    "Maven. [verify].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "junit4",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn verify" />
       <command value="./gradlew test" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest">
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary">
     <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -197,9 +196,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary" />
         <item itemvalue="Gradle.CashbackHackServiceTest" />
         <item itemvalue="Gradle.unit [test]" />
-        <item itemvalue="Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary" />
         <item itemvalue="Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary" />
         <item itemvalue="Gradle.CashbackHackServiceTest.calculateCashbackHack (1)" />
       </list>
