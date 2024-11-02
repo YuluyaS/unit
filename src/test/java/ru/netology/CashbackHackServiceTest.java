@@ -5,7 +5,7 @@ import org.junit.Assert;
 
 import static org.junit.Assert.assertEquals;
 
-public class CashbackHackServiceTest {
+public class gitCashbackHackServiceTest {
 
     @Test
     public void calculateCashbackHackForAmountLessBoundary()
