@@ -22,8 +22,13 @@ public class CashbackHackServiceTest {
         int amount = 1000;
 
         int actual  = service.remain(amount);
+        System.out.println("actual="+actual);
+
         int expected = 0;
         assertEquals(actual, expected);
+
+
+        //Метод remain класса CashbackHackService возвращает ошибочное значение 1000, когда Amount равно Boundary
     }
 
 }
