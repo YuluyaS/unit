@@ -1,7 +1,5 @@
 import org.testng.annotations.Test;
 
-import static org.junit.Assert.assertEquals;
-
 public class CashbackHackServiceTest {
 
     @Test
