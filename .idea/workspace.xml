@@ -50,6 +50,7 @@
   &quot;keyToString&quot;: {
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
     &quot;Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.CashbackHackServiceTest.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.unit [test].executor&quot;: &quot;Run&quot;,
     &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
@@ -115,6 +116,30 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="unit [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -140,6 +165,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountLessBoundary" />
         <item itemvalue="Gradle.unit [test]" />
         <item itemvalue="Gradle.CashbackHackServiceTest" />
       </list>
