@@ -67,7 +67,7 @@
       <command value="./gradlew test" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.calculateCashbackHackForAmountEqBoundary">
+  <component name="RunManager" selected="Gradle.unit [test]">
     <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
